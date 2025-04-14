@@ -7,6 +7,7 @@ Welcome to the **Static Resources** repository! 🚀 This repository contains va
 - 📂 /
   - ├── 🎨 images
   - ├── 📄 documents
+  - ├── 📄 markdowns
 
 ### ✨ How to Use
 
