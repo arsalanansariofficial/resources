@@ -5,7 +5,6 @@
 ### Professional Experience
 
 - Web Developer Intern | IIT Roorkee, Uttar Pradesh | July 2024 - September 2024
-
   - Engineered a comprehensive full-stack brand identity website utilizing Next.js.
 
 - MEAN Stack Developer Intern | onGraph, Noida, Uttar Pradesh | June 2022 - July 2022
@@ -16,17 +15,14 @@
 ### Education
 
 - Liverpool John Moore’s University | Liverpool, UK
-
   - MS Computer Science Major | July 2023
   - Grade Merit
 
 - International Institute of Information Technology | Bangalore, India
-
   - PG in Software Development | March 2022
   - GPA 3.7/4, Full Stack Development Program
 
 - CADD Center | Moradabad, India
-
   - Diploma in Web Development | March 2021
 
 - Rohilkhand University | Moradabad, India
@@ -43,12 +39,10 @@
 ### Projects
 
 - Consultation Application | Winter 2022
-
   - Developed a full-stack web application enabling patients to connect with nearby doctors and book appointments.
   - Achieved a perfect score for the project.
 
 - Sweet Home API | Fall 2021
-
   - Designed and implemented an API based on Spring-Boot and microservices architecture for searching hotel rooms near user-specific locations.
   - Awarded a perfect score for the project.
 
@@ -58,12 +52,20 @@
 
 ### Certifications
 
-- Next.js | Udemy | April 2024
-- Clean Code | Udemy | March 2024
-- User Interface Design | Udemy | October 2023
-- CSS | Udemy | August 2023
-- React.js | Udemy | May 2023
-- Node.js | Udemy | February 2023
-- Angular.js | Udemy | July 2022
-- Web Development | CADD Centre | March 2021
-- Course on Computer Concepts | DOECC | July 2016
+- [Next.js | Udemy | April 2024](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/nextjs.pdf)
+
+- [Clean Code | Udemy | March 2024](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/clean-code.pdf)
+
+- [User Interface Design | Udemy | October 2023](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/user-interface-design.pdf)
+
+- [CSS | Udemy | August 2023](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/css.pdf)
+
+- [React.js | Udemy | May 2023](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/reactjs.pdf)
+
+- [Node.js | Udemy | February 2023](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/nodejs.pdf)
+
+- [Angular.js | Udemy | July 2022](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/angular.pdf)
+
+- [Web Development | CADD Centre | March 2021](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/web-development.pdf)
+
+- [Course on Computer Concepts | DOECC | July 2016](https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/ccc.pdf)
