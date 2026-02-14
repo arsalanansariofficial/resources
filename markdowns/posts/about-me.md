@@ -4,6 +4,10 @@
 
 ### Professional Experience
 
+- Full Stack Developer | Samarth by Ministry of Education | University of Delhi, New Delhi | April 2025 - May 2026
+  - Developed, and maintained the Health Management Module, successfully adopted by 70+ universities and HEIs.
+  - Developed the Estate Maintenance workflow within the Estate Management Module, adopted by 100+ institutions.
+
 - Web Developer Intern | IIT Roorkee, Uttar Pradesh | July 2024 - September 2024
   - Engineered a comprehensive full-stack brand identity website utilizing Next.js.
 
