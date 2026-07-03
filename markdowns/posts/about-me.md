@@ -11,7 +11,7 @@
 - Web Developer Intern | IIT Roorkee, Uttar Pradesh | July 2024 - September 2024
   - Engineered a comprehensive full-stack brand identity website utilizing Next.js.
 
-- MEAN Stack Developer Intern | onGraph, Noida, Uttar Pradesh | June 2022 - July 2022
+- MEAN Stack Developer | onGraph, Noida, Uttar Pradesh | June 2022 - July 2022
   - Developed and maintained web application frontends.
   - Designed and implemented REST APIs using Node.js and Express.
   - Created a Recipe Book application leveraging Angular and Firebase.
