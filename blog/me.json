@@ -1,7 +1,7 @@
 {
   "name": "Arsalan Ansari",
   "title": "Full Stack Developer",
-  "profilePicture": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/author/arsalan-ansari.jpeg",
+  "profilePicture": "https://arsalanansariofficial.github.io/resources/images/author/arsalan-ansari.jpeg",
   "projectCategories": ["All", "React JS", "Next JS"],
   "articleCategories": ["About", "Resume", "Portfolio", "Blog", "Contact"],
   "contactDetails": {
@@ -22,188 +22,188 @@
     "website": "https://arsalanansariofficial.github.io/arsalanansariofficial",
     "discord": "https://discordapp.com/users/1343911893852491869",
     "email": "mailto:theansaricompany@gmail.com?subject=Mail%20To%20Arsalan%20Ansari",
-    "resume": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/arsalan-ansari_resume.pdf"
+    "resume": "https://arsalanansariofficial.github.io/resources/documents/arsalan-ansari_resume.pdf"
   },
   "projects": [
     {
       "category": "React JS",
       "title": "Consultation Application",
       "href": "https://github.com/arsalanansariofficial/consultation-app",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/the-consultation-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/the-consultation-app.jpeg"
     },
     {
       "category": "React JS",
       "title": "Task Manager",
       "href": "https://github.com/arsalanansariofficial/task-manager",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/task-manager-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/task-manager-app.jpeg"
     },
     {
       "category": "Next JS",
       "title": "Weather Application",
       "href": "https://github.com/arsalanansariofficial/weather-app",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/weather-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/weather-app.jpeg"
     },
     {
       "title": "React Quiz",
       "category": "React JS",
       "href": "https://github.com/arsalanansariofficial/react-quiz",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/react-quiz-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/react-quiz-app.jpeg"
     },
     {
       "category": "React JS",
       "title": "Expense Tracker",
       "href": "https://github.com/arsalanansariofficial/expense-tracker",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/expense-tracker-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/expense-tracker-app.jpeg"
     },
     {
       "title": "Tic Tac Toe",
       "category": "React JS",
       "href": "https://github.com/arsalanansariofficial/tic-tac-toe",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/tic-tac-toe.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/tic-tac-toe.jpeg"
     },
     {
       "category": "All",
       "title": "Recipe Page",
       "href": "https://github.com/arsalanansariofficial/recipe-page",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/recipe-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/recipe-page.jpeg"
     },
     {
       "category": "All",
       "title": "Stats Preview Component",
       "href": "https://arsalanansariofficial.github.io/stats-preview-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/stats-preview-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/stats-preview-component.jpeg"
     },
     {
       "category": "All",
       "title": "Results Summary Component",
       "href": "https://arsalanansariofficial.github.io/results-summary-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/results-summary-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/results-summary-component.jpeg"
     },
     {
       "category": "All",
       "title": "Article Preview Component",
       "href": "https://arsalanansariofficial.github.io/article-preview-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/article-preview-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/article-preview-component.jpeg"
     },
     {
       "category": "All",
       "title": "Base Apparel Coming Soon Page",
       "href": "https://arsalanansariofficial.github.io/base-apparel-coming-soon-page",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/base-apparel-coming-soon-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/base-apparel-coming-soon-page.jpeg"
     },
     {
       "category": "All",
       "title": "Expenses Chart Component",
       "href": "https://arsalanansariofficial.github.io/expenses-chart-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/expenses-chart-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/expenses-chart-component.jpeg"
     },
     {
       "category": "All",
       "title": "Interactive Card Details Form",
       "href": "https://arsalanansariofficial.github.io/interactive-card-details-form",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/interactive-card-details-form.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/interactive-card-details-form.jpeg"
     },
     {
       "category": "All",
       "title": "Interactive Rating Component",
       "href": "https://arsalanansariofficial.github.io/interactive-rating-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/interactive-rating-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/interactive-rating-component.jpeg"
     },
     {
       "category": "All",
       "title": "QR Component",
       "href": "https://arsalanansariofficial.github.io/qr-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/qr-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/qr-component.jpeg"
     },
     {
       "category": "All",
       "title": "Profile Card Component",
       "href": "https://arsalanansariofficial.github.io/profile-card-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/profile-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/profile-card-component.jpeg"
     },
     {
       "category": "All",
       "title": "Product Preview Card Component",
       "href": "https://arsalanansariofficial.github.io/product-preview-card-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/product-preview-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/product-preview-card-component.jpeg"
     },
     {
       "category": "All",
       "title": "Ping Single Column Coming Soon Page",
       "href": "https://arsalanansariofficial.github.io/ping-single-column-coming-soon-page",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/ping-single-column-coming-soon-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/ping-single-column-coming-soon-page.jpeg"
     },
     {
       "category": "All",
       "title": "Order Summary Component",
       "href": "https://arsalanansariofficial.github.io/order-summary-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/order-summary-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/order-summary-component.jpeg"
     },
     {
       "category": "All",
       "title": "Notifications Page",
       "href": "https://arsalanansariofficial.github.io/notifications-page",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/notifications-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/notifications-page.jpeg"
     },
     {
       "category": "All",
       "title": "NFT Preview Card Component",
       "href": "https://arsalanansariofficial.github.io/nft-preview-card-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/nft-preview-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/nft-preview-card-component.jpeg"
     },
     {
       "category": "All",
       "title": "Newsletter Signup Form",
       "href": "https://arsalanansariofficial.github.io/newsletter-signup-form",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/newsletter-signup-form.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/newsletter-signup-form.jpeg"
     },
     {
       "category": "All",
       "title": "News Home Page",
       "href": "https://arsalanansariofficial.github.io/news-home-page",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/news-home-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/news-home-page.jpeg"
     },
     {
       "category": "All",
       "title": "Multistep Form",
       "href": "https://arsalanansariofficial.github.io/multi-step-form",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/multi-step-form.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/multi-step-form.jpeg"
     },
     {
       "category": "All",
       "title": "Launch Countdown Timer",
       "href": "https://arsalanansariofficial.github.io/launch-countdown-timer",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/launch-countdown-timer.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/launch-countdown-timer.jpeg"
     },
     {
       "category": "All",
       "title": "Interactive Rating Component",
       "href": "https://arsalanansariofficial.github.io/interactive-rating-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/interactive-rating-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/interactive-rating-component.jpeg"
     },
     {
       "category": "All",
       "title": "Advice Generator App",
       "href": "https://arsalanansariofficial.github.io/advice-generator-app",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/advice-generator-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/advice-generator-app.jpeg"
     },
     {
       "category": "All",
       "title": "Age Calculator App",
       "href": "https://arsalanansariofficial.github.io/age-calculator-app",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/age-calculator-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/age-calculator-app.jpeg"
     },
     {
       "category": "All",
       "title": "3 Column Preview Card Component",
       "href": "https://arsalanansariofficial.github.io/3-column-preview-card-component",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/3-column-preview-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/3-column-preview-card-component.jpeg"
     },
     {
       "category": "React JS",
       "title": "Project Manager",
       "href": "https://github.com/arsalanansariofficial/project-manager",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/project-manager-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/project-manager-app.jpeg"
     }
   ],
   "blogs": [
@@ -213,7 +213,7 @@
       "author": "Arsalan Ansari",
       "description": "A formal introduction about me.",
       "href": "https://github.com/arsalanansariofficial/resources/blob/main/markdowns/posts/about-me.md",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/posts/about-me.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/posts/about-me.jpeg"
     }
   ],
   "about": [
@@ -228,22 +228,22 @@
   ],
   "services": [
     {
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/nodejs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/nodejs.png",
       "category": "Backend Development",
       "title": "I develop backend API's using Node.js & Express."
     },
     {
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/reactjs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/reactjs.png",
       "category": "Frontend Development",
       "title": "I develop frontend apps using React.js."
     },
     {
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/nextjs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/nextjs.png",
       "category": "Full Stack Development",
       "title": "Enthusiast in building full-stack apps with Next.js"
     },
     {
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/bootstrap.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/bootstrap.png",
       "category": "Web Design",
       "title": "I make high-quality designs using Figma."
     }
@@ -251,16 +251,16 @@
   "testimonials": [
     {
       "name": "E-commerce App",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/nextjs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/nextjs.png",
       "comment": "Just a rather simple E-commerce Application, simulated payment and checkout pages using Stripe, database using Prisma built in session based user authentication."
     },
     {
       "name": "Task Manager",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/nodejs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/nodejs.png",
       "comment": "Huge full-stack application comprised of many technologies like Node JS & Express for backend API's, database is managed through MongoDB and Mongoose and React JS for the frontend of the application."
     },
     {
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/nextjs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/nextjs.png",
       "name": "Social Application",
       "comment": "This is a basic prototype application that I am exprementing on developing a photo sharing like application, built with Next JS and also using Socket.io for real-time integration with the client and server."
     }
@@ -268,52 +268,52 @@
   "clients": [
     {
       "name": "HTML",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/html.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/html.png",
       "website": "https://developer.mozilla.org/en-US/docs/Web/HTML"
     },
     {
       "name": "CSS",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/css.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/css.png",
       "website": "https://developer.mozilla.org/en-US/docs/Web/CSS"
     },
     {
       "name": "JavaScript",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/javascript.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/javascript.png",
       "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     },
     {
       "name": "TypeScript",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/typescript.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/typescript.png",
       "website": "https://www.typescriptlang.org"
     },
     {
       "name": "React JS",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/reactjs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/reactjs.png",
       "website": "https://react.dev/learn"
     },
     {
       "name": "Next JS",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/nextjs.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/nextjs.png",
       "website": "https://nextjs.org/docs"
     },
     {
       "name": "Bootstrap",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/bootstrap.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/bootstrap.png",
       "website": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
     },
     {
       "name": "Sass",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/sass.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/sass.png",
       "website": "https://sass-lang.com/documentation/"
     },
     {
       "name": "Git",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/git.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/git.png",
       "website": "https://docs.github.com/en"
     },
     {
       "name": "Visual Studio Code",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/icons/vs-code.png",
+      "image": "https://arsalanansariofficial.github.io/resources/images/icons/vs-code.png",
       "website": "https://code.visualstudio.com/Download"
     }
   ],

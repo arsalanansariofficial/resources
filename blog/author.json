@@ -1,13 +1,13 @@
 {
   "author": "I'm Arsalan.",
   "intro": "Full Stack Developer crafting end-to-end web solutions with TypeScript. Focused on building clean, performant interfaces using React.js and Tailwind CSS.",
-  "profile": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/author/arsalan-ansari.jpeg",
+  "profile": "https://arsalanansariofficial.github.io/resources/images/author/arsalan-ansari.jpeg",
   "social": {
     "whatsApp": "https://wa.link/dnq2t8",
     "linkedIn": "https://www.linkedin.com/in/arsalanansariofficial/",
     "gitHub": "https://github.com/arsalanansariofficial/arsalanansariofficial",
     "email": "mailto:theansaricompany@gmail.com?subject=Mail%20To%20Arsalan%20Ansari",
-    "resume": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/documents/arsalan-ansari_resume.pdf"
+    "resume": "https://arsalanansariofficial.github.io/resources/documents/arsalan-ansari_resume.pdf"
   },
   "posts": [
     {
@@ -16,7 +16,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2025-04-12",
       "summary": "A formal introduction about me.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/posts/about-me.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/posts/about-me.jpeg"
     }
   ],
   "projects": [
@@ -26,7 +26,7 @@
       "slug": "the-consultation-app",
       "title": "The Consultation App",
       "summary": "Project based on React.js, React Router and Redux. Made for patients who can find doctors with a specific specialization.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/the-consultation-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/the-consultation-app.jpeg"
     },
     {
       "title": "Task Manager",
@@ -34,7 +34,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2023-04-01",
       "summary": "Project based on React.js, React Router and Redux. Made for managing tasks.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/task-manager-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/task-manager-app.jpeg"
     },
     {
       "slug": "weather-app",
@@ -42,7 +42,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2023-03-01",
       "summary": "Project based on Next.js, Tailwind CSS & Shad CN, just a simple weather application.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/weather-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/weather-app.jpeg"
     },
     {
       "title": "React Quiz",
@@ -50,7 +50,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2023-02-25",
       "summary": "A fun excercise with modern React.js features.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/react-quiz-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/react-quiz-app.jpeg"
     },
     {
       "title": "Expense Tracker",
@@ -58,7 +58,7 @@
       "publishedAt": "2023-02-20",
       "slug": "expense-tracker-app",
       "summary": "A simple client side application tracking expenses.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/expense-tracker-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/expense-tracker-app.jpeg"
     },
     {
       "slug": "tic-tac-toe",
@@ -66,7 +66,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2023-02-10",
       "summary": "Just a fun game made with React.js.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/tic-tac-toe.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/tic-tac-toe.jpeg"
     },
     {
       "slug": "recipe-page",
@@ -74,7 +74,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2022-12-29",
       "summary": "A challenge by Frontend Mentor to create the Recipe Page.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/recipe-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/recipe-page.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -82,7 +82,7 @@
       "slug": "3-column-preview-card-component",
       "title": "3 Column Preview Card Component",
       "summary": "A challenge by Frontend Mentor to create the 3 Column Preview Card Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/3-column-preview-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/3-column-preview-card-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -90,7 +90,7 @@
       "slug": "age-calculator-app",
       "title": "Age Calculator App",
       "summary": "A challenge by Frontend Mentor to create the Age Calculator App.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/age-calculator-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/age-calculator-app.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -98,7 +98,7 @@
       "slug": "advice-generator-app",
       "title": "Advice Generator App",
       "summary": "A challenge by Frontend Mentor to create the Advice Generator App.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/advice-generator-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/advice-generator-app.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -106,7 +106,7 @@
       "slug": "launch-countdown-timer",
       "title": "Launch Countdown Timer",
       "summary": "A challenge by Frontend Mentor to create the Launch Countdown Timer.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/launch-countdown-timer.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/launch-countdown-timer.jpeg"
     },
     {
       "title": "Multistep Form",
@@ -114,7 +114,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2022-11-29",
       "summary": "A challenge by Frontend Mentor to create the Multistep Form.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/multi-step-form.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/multi-step-form.jpeg"
     },
     {
       "slug": "news-home-page",
@@ -122,7 +122,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2022-11-21",
       "summary": "A challenge by Frontend Mentor to create the News Home Page.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/news-home-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/news-home-page.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -130,7 +130,7 @@
       "slug": "newsletter-singup-form",
       "title": "Newsletter Signup Form",
       "summary": "A challenge by Frontend Mentor to create the Newsletter Signup Form.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/newsletter-signup-form.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/newsletter-signup-form.jpeg"
     },
     {
       "title": "Project Manger",
@@ -138,7 +138,7 @@
       "publishedAt": "2022-11-15",
       "slug": "project-manager-app",
       "summary": "A simple client side application for managing projects.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/projects/project-manager-app.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/projects/project-manager-app.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -146,7 +146,7 @@
       "slug": "nft-preview-card-component",
       "title": "NFT Preview Card Component",
       "summary": "A challenge by Frontend Mentor to create the NFT Preview Card Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/nft-preview-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/nft-preview-card-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -154,7 +154,7 @@
       "slug": "notifications-page",
       "title": "Notifications Page",
       "summary": "A challenge by Frontend Mentor to create the Notifications Page.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/notifications-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/notifications-page.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -162,7 +162,7 @@
       "slug": "order-summary-component",
       "title": "Order Summary Component",
       "summary": "A challenge by Frontend Mentor to create the Order Summary Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/order-summary-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/order-summary-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -170,7 +170,7 @@
       "slug": "ping-single-column-coming-soon-page",
       "title": "Ping Single Column Coming Soon Page",
       "summary": "A challenge by Frontend Mentor to create the Ping Single Column Coming Soon Page.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/ping-single-column-coming-soon-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/ping-single-column-coming-soon-page.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -178,7 +178,7 @@
       "slug": "product-preview-card-component",
       "title": "Product Preview Card Component",
       "summary": "A challenge by Frontend Mentor to create the Product Preview Card Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/product-preview-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/product-preview-card-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -186,7 +186,7 @@
       "slug": "profile-card-component",
       "title": "Profile Card Component",
       "summary": "A challenge by Frontend Mentor to create the Profile Card Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/profile-card-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/profile-card-component.jpeg"
     },
     {
       "slug": "qr-component",
@@ -194,7 +194,7 @@
       "author": "Arsalan Ansari",
       "publishedAt": "2022-09-21",
       "summary": "A challenge by Frontend Mentor to create the QR Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/qr-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/qr-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -202,7 +202,7 @@
       "slug": "interactive-rating-component",
       "title": "Interactive Rating Component",
       "summary": "A challenge by Frontend Mentor to create the Interactive Rating Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/interactive-rating-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/interactive-rating-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -210,7 +210,7 @@
       "slug": "interactive-card-details-form",
       "title": "Interactive Card Details Form",
       "summary": "A challenge by Frontend Mentor to create the Interactive Card Details Form.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/interactive-card-details-form.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/interactive-card-details-form.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -218,7 +218,7 @@
       "slug": "expenses-chart-component",
       "title": "Expenses Chart Component",
       "summary": "A challenge by Frontend Mentor to create the Expenses Chart Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/expenses-chart-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/expenses-chart-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -226,7 +226,7 @@
       "slug": "article-preview-component",
       "title": "Article Preview Component",
       "summary": "A challenge by Frontend Mentor to create the Article Preview Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/article-preview-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/article-preview-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -234,7 +234,7 @@
       "slug": "base-apparel-coming-soon-page",
       "title": "Base Apparel Coming Soon Page",
       "summary": "A challenge by Frontend Mentor to create the Base Apparel Coming Soon Page.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/base-apparel-coming-soon-page.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/base-apparel-coming-soon-page.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -242,7 +242,7 @@
       "slug": "results-summary-component",
       "title": "Results Summary Component",
       "summary": "A challenge by Frontend Mentor to create the Results Summary Component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/results-summary-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/results-summary-component.jpeg"
     },
     {
       "author": "Arsalan Ansari",
@@ -250,7 +250,7 @@
       "slug": "stats-preview-component",
       "title": "Stats Preview Component",
       "summary": "A challenge by Frontend Mentor to create the stats preview component.",
-      "image": "https://raw.githubusercontent.com/arsalanansariofficial/resources/refs/heads/main/images/frontend-mentor/stats-preview-component.jpeg"
+      "image": "https://arsalanansariofficial.github.io/resources/images/frontend-mentor/stats-preview-component.jpeg"
     }
   ]
 }
